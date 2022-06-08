@@ -9,12 +9,12 @@
     https://niconicoli.com/imageHost/img2/202111122126603.gif
 
 
-​    
+    
 <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
 
 ```java
 public class LiYunfei-SCU (){
-    var e = "Programmer Developer";
+    var e = "Computer science students";
  
     var langs = "ALGUMAS LINGUAGENS";
     String[] l = new String[7] {"JAVA", "C", "C++","JavaScript", "Kotlin", "Python", "Linux"};
